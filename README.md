@@ -1,4 +1,4 @@
-# Tarefa 3 — Implementação do FixMatch com Pytorch
+# Tarefa 3 - Implementação do FixMatch com Pytorch
 
 Alunos: Kauan Mariani Ferreira, Pedro Henrique Coterli e Samuel Corrêa Lima
 
