@@ -1,11 +1,8 @@
-# Tarefa 3 — FixMatch (implementação mínima com PyTorch)
+# Tarefa 3 — Implementação do FixMatch com Pytorch
 
 Alunos: Kauan Mariani Ferreira, Pedro Henrique Coterli e Samuel Corrêa Lima
 
-Vídeo apresentação:
-
 Link para o vídeo com a apresentação: https://www.youtube.com/watch?v=0BMUgv4YzwM
-
 
 Este repositório contém uma implementação compacta do algoritmo FixMatch usando PyTorch. O objetivo é servir como material didático e como referência prática para entender e reproduzir as etapas fundamentais do método.
 
